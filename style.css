@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(192,192,192);
+  padding: 20px;
+  cursor: crosshair;
+}
+
+header, aside {
+  background-color: rgb(70,70,70);
+  padding: 10px;
+  border-radius: 30px;
+  margin-bottom: 20px;
+  box-shadow: 5px 4px 2px rgb(40,40,40);
+}
+
+article {
+  padding: 15px;
+  background-color: rgb(130,130,130);
+}
+
+p{
+  background-color: gray;
+  font-family: "Trebuchet MS";
+  color: blue;
+}
+
+h1{
+  font-size: 1.8em;
+  letter-spacing: 2px;
+}
+
+section {
+  width: 70%;
+  float: left;
+}
+
+
+aside{
+  float: right;
+  width: 20%;
+    text-align: right;
+}
